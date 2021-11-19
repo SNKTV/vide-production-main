@@ -51,7 +51,7 @@ footer * {
     display: flex;
     flex-direction: column;
     min-height: 100%;
-    background: url("img/hero.png") center top no-repeat, url(/img/bottom-pic.png) right bottom 307px no-repeat;
+    background: url("../img/hero.png") center top no-repeat, url(/img/bottom-pic.png) right bottom 307px no-repeat;
 }
 
 .container {
@@ -586,38 +586,38 @@ footer * {
 }
 
 .socials__item-icon-tg .socials__link {
-    background-image: url("img/tg.png");
+    background-image: url("../img/tg.png");
 
 }
 
 .socials__item-icon-tg .socials__link:hover {
-    background-image: url("img/tg-hover.png");
+    background-image: url("../img/tg-hover.png");
 
 }
 
 .socials__item-icon-vk .socials__link {
-    background-image: url("/img/vk.png");
+    background-image: url("..//img/vk.png");
 
 }
 
 .socials__item-icon-vk .socials__link:hover {
-    background-image: url("img/vk-hover.png");
+    background-image: url("../img/vk-hover.png");
 }
 
 .socials__item-icon-fb .socials__link {
-    background-image: url("img/fb.png");
+    background-image: url("../img/fb.png");
 }
 
 .socials__item-icon-fb .socials__link:hover {
-    background-image: url("img/fb-hover.png");
+    background-image: url("../img/fb-hover.png");
 }
 
 .socials__item-icon-inst .socials__link {
-    background-image: url("img/insta.png");
+    background-image: url("../img/insta.png");
 }
 
 .socials__item-icon-inst .socials__link:hover {
-    background-image: url("img/insta-hover.png");
+    background-image: url("../img/insta-hover.png");
 }
 
 .footer__contacts {
